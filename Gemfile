@@ -1,7 +1,6 @@
 source "http://rubygems.org"
 
-ruby '2.1.1'
-#ruby-gemset=dep-test-app
+ruby '2.1.2'
 
 gem "thin"
 gem "sinatra"
